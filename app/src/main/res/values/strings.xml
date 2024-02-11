@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyFullJetPackCompose</string>
+    <string name="no_news_as_of_now_please_check_in_some_time">No News as of now \n Please check in some time</string>
+</resources>
